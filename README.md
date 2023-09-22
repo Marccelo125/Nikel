@@ -1,9 +1,7 @@
 Hello, Welcome to my first project in Html/JavaScript/CSS project. Im glad to you be here.
 
 Basically this project is a Login/Register sistem which moves you to your single account to add and see details of your transactions.
-
-in short it's a register of your transactions like a bank app, but... a little bit more simple haha.
-
+you can also run acess the project by this link: https://nikel-project.vercel.app
 #Next you'll see the images of the main pages of my project
 
 ![nikel-1-index](https://github.com/Marccelo125/Nikel/assets/127633664/39d687b0-e07f-46d9-ad33-21e5c6b141cc)
